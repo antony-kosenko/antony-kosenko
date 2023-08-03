@@ -36,17 +36,5 @@ Interests:
 Plans_for_growing: [Full Stack Developer]
 
 ```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antony-kosenko)](https://github.com/anuraghazra/github-readme-stats)
-<h2>Meet me in:</h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antony-kosenko&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![image](https://github.com/antony-kosenko/antony-kosenko/assets/126908734/0a51ca56-8cd3-4a75-996e-4ff8e7275efa)](https://www.linkedin.com/in/anton-kosenko-a266a8245/)
-
-<a href="https://www.linkedin.com/in/anton-kosenko-a266a8245/">
-  <img src="https://github.com/antony-kosenko/antony-kosenko/assets/126908734/6020afa8-1107-4bb7-8464-2bbfdf150a65"/>
-</a>
-<a href="https://t.me/anko_v">
-  <img src="https://github.com/antony-kosenko/antony-kosenko/assets/126908734/aa777966-47e5-4baa-be0e-94999e13b450"/>
-</a>
-<a href="https://www.instagram.com/antony_kosenko/">
-  <img src="https://github.com/antony-kosenko/antony-kosenko/assets/126908734/c98fed22-7890-48c7-94dd-bfbb733e52dd"/>
-</a>
