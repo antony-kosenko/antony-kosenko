@@ -2,7 +2,7 @@
 
 
 <h2>My kit 🚀 :</h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg"/>
 
 
 
