@@ -37,4 +37,4 @@ Plans_for_growing: [Full Stack Developer]
 
 ```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antony-kosenko&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antony-kosenko&size_weight=1&count_weight=0&layout=donutt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antony-kosenko&size_weight=1&count_weight=0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
