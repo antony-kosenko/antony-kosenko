@@ -38,7 +38,8 @@ Plans_for_growing: [Full Stack Developer]
 ```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antony-kosenko)](https://github.com/anuraghazra/github-readme-stats)
 <h2>Meet me in:</h2>
-[![image](https://github.com/antony-kosenko/antony-kosenko/assets/126908734/6020afa8-1107-4bb7-8464-2bbfdf150a65)]([Your Link Address](https://www.linkedin.com/in/anton-kosenko-a266a8245/))
+
+[![image](https://github.com/antony-kosenko/antony-kosenko/assets/126908734/6020afa8-1107-4bb7-8464-2bbfdf150a65")](https://www.linkedin.com/in/anton-kosenko-a266a8245/)
 
 <a href="https://www.linkedin.com/in/anton-kosenko-a266a8245/">
   <img src="https://github.com/antony-kosenko/antony-kosenko/assets/126908734/6020afa8-1107-4bb7-8464-2bbfdf150a65"/>
