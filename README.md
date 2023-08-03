@@ -9,11 +9,31 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />          
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+          
 </div>
 
 ```yaml
-Testing some [list]
+
+Locations: Kyiv, Ukraine
+Interests: Cars, Gaming, Computers Hardware, Lego Technic, Movies and Series.
+Education: "Master of Marine Engineering"
+
+Short Bio:
+"Python Software Engineer.
+Switched to software development at 30 y.o. Marine engineer in past.
+In love with coding now."
+
+Interests:
+[
+  "Web Development",
+  "Game Development",
+  "Bots and Automation"
+]
+
+Plans_for_growing: [Full Stack Developer]
+
 ```
 
 <h2>Meet me in:</h2>
