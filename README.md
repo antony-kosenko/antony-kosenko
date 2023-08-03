@@ -3,6 +3,6 @@
   <img src="https://github.com/antony-kosenko/antony-kosenko/assets/126908734/6020afa8-1107-4bb7-8464-2bbfdf150a65"/>
 </a>
 <a href="https://t.me/anko_v">
-  <img src="https://github.com/antony-kosenko/antony-kosenko/assets/126908734/c296c4f3-ff05-4883-a585-ce9a89a073ed"/>
+  <img src="https://github.com/antony-kosenko/antony-kosenko/assets/126908734/4442f20c-ed1e-45d7-8ab7-b15f72690ea0"/>
 </a>
 
