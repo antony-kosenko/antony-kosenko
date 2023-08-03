@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi,%20I'm%20Anton!&fontAlignY=10&desc=Software%20Developer%20[Python%20|%20Django%20|%20FastAPI]&descAlign=30&descAlignY=80"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi,%20I'm%20Anton!&fontAlignY=30&desc=Software%20Developer%20[Python%20|%20Django%20|%20FastAPI]&descAlign=30&descAlignY=80"/>
