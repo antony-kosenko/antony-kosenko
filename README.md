@@ -1,2 +1,2 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=Hello,%20folks%🫡"/>
-<h1> My name is Anton</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi,%20folks%🫡"/>
+<img src="https://capsule-render.vercel.app/api?typtransparent&text=My%name%is%Anton"/>
