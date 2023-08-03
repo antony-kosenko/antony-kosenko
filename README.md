@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Hi,%20I'm%20Anton!&fontAlign=20&fontSize=40&fontAlignY=28&desc=Python%20Software%20Developer&descAlign=19&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Hi,%20I'm%20Anton!&fontAlign=20&fontSize=40&fontAlignY=28&desc=[Python%20Software%20Developer]&descAlign=19&descAlignY=65"/>
 <a href="https://www.linkedin.com/in/anton-kosenko-a266a8245/">
   <img src="https://github.com/antony-kosenko/antony-kosenko/assets/126908734/6020afa8-1107-4bb7-8464-2bbfdf150a65"/>
 </a>
