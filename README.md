@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Hi,%20I'm%20Anton!&fontAlign=20&fontSize=40&fontAlignY=28&desc=[Python%20Software%20Developer]&descAlign=19&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&text=Hi,%20I'm%20Anton!&fontAlign=20&fontSize=40&fontAlignY=28&desc=[Python%20Software%20Developer]&descAlign=19&descAlignY=65"/>
 
 
 <h3>My kit :</h3>
