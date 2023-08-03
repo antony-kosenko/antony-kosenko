@@ -2,4 +2,3 @@
 <a href="https://www.linkedin.com/in/anton-kosenko-a266a8245/">
   <img src="https://www.linkedin.com/in/anton-kosenko-a266a8245/">
 </a>
-![image](https://github.com/antony-kosenko/antony-kosenko/assets/126908734/a34664df-2b72-4ca5-96b8-ef495ce36539)
