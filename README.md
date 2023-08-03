@@ -6,3 +6,6 @@
 <a href="https://t.me/anko_v">
   <img src="https://github.com/antony-kosenko/antony-kosenko/assets/126908734/aa777966-47e5-4baa-be0e-94999e13b450"/>
 </a>
+<a href="https://www.instagram.com/antony_kosenko/">
+  <img src="https://github.com/antony-kosenko/antony-kosenko/assets/126908734/c98fed22-7890-48c7-94dd-bfbb733e52dd"/>
+</a>
